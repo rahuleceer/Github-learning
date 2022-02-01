@@ -1,0 +1,30 @@
+Hello
+
+My name is Rahul Saini. I am from Jaipur. I am doing my b.tech from NIT Delhi and the graduation year is 2023.
+
+So in this Assignment I have learned about the github Desktop Feature. So I did learn about the what is github? 
+and why we use github? and how we can create the repositories in github?
+I did also learn about the cloning, pushing, pulling and commiting the code.
+
+Basically the github is a remote Server which is used to store the code and also it can be used as a version control.
+There are some terms and features that we can use, these are:
+
+Repositories:  These are as same as of folder but in terms of git feature it is known as repositories. To create the repo 
+first we click on new repo and then after entering repo name, public access and add readme file we can create this repo.
+now to add files in this just go to add files and select option to upload files and upload all your files. In this way you can create 
+the repo.
+
+Cloning/Downloading Zip File:
+creating a copy of the repo to your local storage is known as clonning. to do that click on code and click on the download zip option
+at the bottom. Now you can unzip that file and see that it is on your local system.
+
+pushing:
+In this method we will update the changes to the files present in the repo by the same way by uploading the files.
+
+pulling:
+this is done when we want to merge a branch into master branch.
+
+commit:  this is the option or changes information through which we update the code or upload the new files.
+
+branch:  In the github there is one more option of version control that is branches through which we can work parallely.
+
